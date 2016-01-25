@@ -18,6 +18,9 @@ PD3 - Clock Host line
 #### References
 
 http://www.computer-engineering.org/ps2protocol/
+
 http://www.computer-engineering.org/ps2mouse/
+
 http://extremeelectronics.co.in/avr-tutorials/ps2-keyboard-interface-with-avr-mcu/
+
 http://wiki.osdev.org/Mouse_Input
